@@ -1,11 +1,10 @@
 ### Hi there 👋 I am Sarthak Dash 👨‍🎓
-> 🇮🇳 PhD Student working in Fiber Lasers and Nonlinear Optics 
+> 🇮🇳 Researcher in Fiber Lasers and Nonlinear Optics 
 
 > Programming Language:
 >   - Python 
->   - Matlab
 >   - Julia
- 
+>   - Matlab 
 <!--
 **Sarthakdsh/Sarthakdsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
